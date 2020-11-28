@@ -1,0 +1,13 @@
+H:\VB2\HK III\LTHDT\Bai_Giang\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+H:\VB2\HK III\LTHDT\Bai_Giang\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+H:\VB2\HK III\LTHDT\Bai_Giang\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+H:\VB2\HK III\LTHDT\Bai_Giang\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+H:\VB2\HK III\LTHDT\Bai_Giang\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+H:\VB2\HK III\LTHDT\Bai_Giang\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+H:\VB2\HK III\LTHDT\Bai_Giang\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+H:\VB2\HK III\LTHDT\Bai_Giang\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+H:\VB2\HK III\LTHDT\Bai_Giang\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+H:\VB2\HK III\LTHDT\Bai_Giang\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+H:\VB2\HK III\LTHDT\Bai_Giang\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+H:\VB2\HK III\LTHDT\Bai_Giang\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+H:\VB2\HK III\LTHDT\Bai_Giang\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
